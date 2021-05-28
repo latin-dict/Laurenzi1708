@@ -7,4 +7,4 @@ Source files of [Amalthea Onomastica](https://latin-dict.github.io/dictionaries/
 
 Page index (`index.csv`) and code of the dictionary is in **Public Domain**.
 
-Digital reproduction of the book is restricted to [Non-Commercial Use](http://rightsstatements.org/vocab/NoC-NC/1.0/) in accordance with [requirements of Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/en/view/bsb10523625). So, the release versions we license under a [**CC BY-NC**](http://creativecommons.org/licenses/by-nc/4.0/).
+Digital reproduction of the book is restricted to [Non-Commercial Use](http://rightsstatements.org/vocab/NoC-NC/1.0/) in accordance with [requirements of Bayerische Staatsbibliothek](https://www.digitale-sammlungen.de/en/view/bsb10523625). So, we license the release versions under a [**CC BY-NC**](http://creativecommons.org/licenses/by-nc/4.0/).
